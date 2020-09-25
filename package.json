@@ -1,0 +1,16 @@
+{
+  "name": "SWE_Fall2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boggle_solver.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "jest": "^26.4.2"
+  }
+}
